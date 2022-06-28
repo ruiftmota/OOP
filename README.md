@@ -1,4 +1,4 @@
-# OOP
+# OOP - Object Oriented Programming Practical Assignment
 
 This project presents a race simulator.
 There are 3 configuration files:
