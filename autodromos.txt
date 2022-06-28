@@ -1,0 +1,4 @@
+8 100 pista
+6 150 oval
+6 120 volta
+4 150 rotunda

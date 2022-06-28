@@ -1,0 +1,5 @@
+7000 5000 260 bmw m5
+10000 6000 300 tesla roadster
+5000 5000 200 renault 11
+6000 2000 100 fiat lapata
+3000 3000 55 ford ka

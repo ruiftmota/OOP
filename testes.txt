@@ -1,0 +1,10 @@
+carregaP pilotos.txt
+carregaC carros.txt
+carregaA autodromos.txt
+entranocarro a ruben
+entranocarro b mota
+entranocarro c andre
+entranocarro d manel
+entranocarro e abilio
+campeonato
+campeonato oval pista volta rotunda
